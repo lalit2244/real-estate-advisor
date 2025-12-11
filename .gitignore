@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.Python
+env/
+venv/
+mlruns/
+data/india_housing_prices.csvdata/processed_housing_data.csv 
+models/classifier_model.pkl 
+models/regressor_model.pkl 
+data/processed_housing_data.csv 
+data/india_housing_prices.csv 
